@@ -2,14 +2,14 @@
 
 Bu repo [Patika](https://www.patika.dev) Front-End Eğitimindeki html bölüm sonu çalışması kapsamında oluşturduğum bir web site. İçerisinde bir adet README dosyası ve 3 adet index.html barındırıyor.
 
-[github image](https://www.hizliresim.com/mtnmjwi)
+[github image](https://www.hizliresim.com/4grrcoi)
 
 ## Installation
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```bash
-git clone https://github.com/feridulucinar/ilk-web-sayfam.git
+git clone https://github.com/feridulucinar/html_bolum_sonu.git
 ```
 
 ## Usage
