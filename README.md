@@ -2,7 +2,7 @@
 
 Bu repo [Patika](https://www.patika.dev) Front-End Eğitimindeki html bölüm sonu çalışması kapsamında oluşturduğum bir web site. İçerisinde bir adet README dosyası ve 3 adet index.html barındırıyor.
 
-[github image](https://www.hizliresim.com/4grrcoi)
+[github image](https://www.hizliresim.com/aagxh24)
 
 ## Installation
 
